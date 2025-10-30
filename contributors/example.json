@@ -1,0 +1,27 @@
+{
+  "githubUser": "example-dev",
+  "country": "🇲🇽",
+  "bio": "Desarrollador full-stack apasionado por el open source y la comunidad tech global",
+  "favoriteStack": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Python"
+  ],
+  "level": "mid",
+  "howDoYouFeel": "Muy emocionado de ser parte de AmoxcalliDev y contribuir al ecosistema open source global! 🌎🚀",
+  "interests": [
+    "web development",
+    "backend",
+    "open source",
+    "tech education",
+    "community"
+  ],
+  "availableFor": [
+    "project collaboration",
+    "learning new technologies",
+    "knowledge sharing"
+  ],
+  "joinDate": "2025-10-29"
+}
